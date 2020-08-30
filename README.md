@@ -10,7 +10,7 @@ Static files (web resources) from AWS S3 Bucket:
 
 
 
-## Authors
+## Presenter
 
 * Glendon Thaiw, AWS ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/glendonthaiw/))
 
