@@ -15,4 +15,9 @@ Static files (web resources) from AWS S3 Bucket:
 * Glendon Thaiw, AWS ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/glendonthaiw/))
 
 
+## Resources
+
+* ([Official AWS Tutorial](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+
+
 
