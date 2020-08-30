@@ -20,4 +20,5 @@ Static files (web resources) from AWS S3 Bucket:
 * [Official AWS Tutorial](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 
 
+* [Post-workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpRfVhLYOnzggHASXlbOjkZoYi4t72qrACiPvwuSBxBVHOiw/viewform?usp=sf_link)
 
