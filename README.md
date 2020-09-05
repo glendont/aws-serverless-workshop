@@ -22,3 +22,4 @@ Static files (web resources) from AWS S3 Bucket:
 
 * [Post-workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpRfVhLYOnzggHASXlbOjkZoYi4t72qrACiPvwuSBxBVHOiw/viewform?usp=sf_link)
 
+* [Session Recording](https://drive.google.com/drive/folders/1cc40u_U_q4EWmwl1OBOQNe-1yFS8MlGM?usp=sharing)
